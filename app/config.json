@@ -1,0 +1,19 @@
+{
+    "appID": 28,
+    "appName": "app",
+    "type": "Customization",
+    "scope": "ALL",
+    "uploadConfig": {
+        "desktop": {
+            "js": [
+                "app/dist/app.min.js"
+            ],
+            "css": []
+        },
+        "mobile": {
+            "js": [
+                "app/dist/app.min.js"
+            ]
+        }
+    }
+}

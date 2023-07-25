@@ -5,6 +5,7 @@ export function App() {
     <>
       <div>
         <p>ここからkintoneのカスタマイズを開始する</p>
+        <button>ボタン</button>
       </div>
     </>
   );
